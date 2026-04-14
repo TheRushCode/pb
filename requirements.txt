@@ -3,3 +3,4 @@ flask-cors
 flask-pymongo
 python-dotenv
 pyjwt
+flask-jwt-extended
